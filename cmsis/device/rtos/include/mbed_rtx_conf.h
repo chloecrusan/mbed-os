@@ -23,7 +23,7 @@
 #ifndef MBED_RTX_CONF_H
 #define MBED_RTX_CONF_H
 
-#include "../../../../targets/TAGET_STM/mbed_rtx.h"
+#include "../../../../targets/TARGET_STM/mbed_rtx.h"
 
 /** Any access to RTX5 specific data structures used in common code should be wrapped in ifdef MBED_OS_BACKEND_RTX5 */
 #define MBED_OS_BACKEND_RTX5
