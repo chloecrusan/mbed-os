@@ -75,7 +75,7 @@ void SetSysClock(void)
 #endif
             {
                 {
-                    error("SetSysClock failed\n");
+                    //error("SetSysClock failed\n");
                 }
             }
         }
